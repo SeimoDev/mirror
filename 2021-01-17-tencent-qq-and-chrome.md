@@ -21,7 +21,7 @@
 
  
 
-![](http://disk.seimo.pw/%E5%9B%BE%E5%BA%8A/mirror/tencent-qq-2021-01-17/6.png)
+![](http://disk.seimo.pw/%E5%9B%BE%E5%BA%8A/mirror/tencent-qq-2021-01-17/3.png)
 这是实锤了QQ和Chrome过不去啊，这我可不信，把规则去掉，重新翻了一下才发现果然是冤枉QQ了啊。
 
  
